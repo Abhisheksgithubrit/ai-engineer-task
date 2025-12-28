@@ -31,16 +31,15 @@ streamlit run app.py
 
 ## Usage
 
-1. Access the application through your web browser (default: http://localhost:8501)
-2. Upload one or more .docx documents related to ADGM processes
-3. The system will:
+1. Upload one or more .docx documents related to ADGM processes
+2. The system will:
    - Identify document types
    - Determine the process you're attempting (incorporation, licensing, etc.)
    - Check for missing required documents
    - Review documents for compliance issues
    - Insert comments in documents where issues are found
    - Generate a structured report of all findings
-4. Download the annotated documents and JSON report
+3. Download the annotated documents and JSON report
 
 ## Document Categories Supported
 
